@@ -1,0 +1,6 @@
+db.sqlite3
+*.pyc
+staticfiles
+.idea
+__pycache__/
+
