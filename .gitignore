@@ -1,6 +1,20 @@
-db.sqlite3
 *.pyc
-staticfiles
+*.pyo
+bin/
+include/
+Include/
+lib/
+Lib/
+Scripts/
+tcl/
+lib/
+local/
+*.sublime-project
+*.sublime-workspace
+*.json
+.DS_Store
+.Python
+db.sqlite3
 .idea
 __pycache__/
 
